@@ -1,5 +1,5 @@
 ## Description:
-You are trapped in the Cabin. You can't go outside cause there is toxic gas outside the cabin which will give you damage. Besides the toxic gas, Zombies are also out there. You and your teammates have to stick together and have to fight those zombies who are coming to kill you. After each zombie wave, you can also buy new weapons from the cabin. As the zombie wave increases the difficulty will also increase. You would have to face more powerful zombies with more health, speed, gravity, or jump. You and your teammates have to work together to survive longer. If you get separated, then you will be an easy target for the zombies.
+You are trapped in the Cabin. You can't go outside cause there is toxic gas that will give you damage. Besides the toxic gas, Zombies are also out there. You and your teammates have to stick together and have to fight those zombies who are coming to kill you. After each wave, you can also buy new weapons from the cabin. As the waves go by the difficulty will also be increased. You would have to face more powerful zombies with more health, speed, etc. You and your teammates have to work together to survive longer. If you get separated, then you will be an easy target for the zombies.
 
 ## Gameplay:
 https://www.youtube.com/watch?v=Md4ekj4FGWU
